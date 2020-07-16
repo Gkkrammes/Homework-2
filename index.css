@@ -1,0 +1,20 @@
+body {
+    background: url('https://previews.123rf.com/images/tianatena/tianatena1705/tianatena170500106/78069058-watercolor-blooming-cactus-background-exotic-cacti-with-flowers-succulent-plants-and-cactus-hand-pai.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+  
+.col-6 {
+    background-color: white;
+    border-style: double;
+    border-width: 5px;
+    border-color: violet;
+}
+
+.navbar-brand {
+    font-family: 'Exo', sans-serif;
+    font-size: 30px;
+
+}
