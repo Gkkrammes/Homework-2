@@ -5,7 +5,27 @@ body {
     font-family: 'Exo', sans-serif;
 }
 
-.col-6 {
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  
+.facebook {
+    background: #3B5998;
+    color: white;
+    background-size: auto;
+}
+  
+.linkedin {
+    background: #007bb5;
+    color: white;
+}
+  
+.col-sm {
     background-color: white;
     padding-top: 5px;
 }
@@ -15,11 +35,7 @@ body {
     font-size: 30px;
 }
 
-.row {
-    margin-bottom: 40px;
-}
-
-.col-8 {
+.col-md {
     background-color: white;
     padding:10px;
     margin-top: 50px;
