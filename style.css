@@ -1,11 +1,22 @@
 body {
     background-position: fixed;
-    background-image: url("https://cdn.statically.io/img/wallpapercave.com/wp/wp1913728.jpg");
+    background-image: url("https://i.pinimg.com/564x/32/56/e3/3256e3c55cd539cad9c0a21850cd9f1f.jpg");
     background-size: 1500px;
     font-family: 'Exo', sans-serif;
 }
 
-.fa {
+h1 {
+    border-style: double;
+    border-width: 2px;
+    border-color: rgb(89, 89, 107);
+    background-color: white;
+}
+
+p {
+    font-size: 2vw;
+}
+
+.fa, .fab {
     padding: 20px;
     font-size: 30px;
     width: 50px;
@@ -18,16 +29,30 @@ body {
     background: #3B5998;
     color: white;
     background-size: auto;
+    border-radius: 100%;
 }
   
 .linkedin {
     background: #007bb5;
     color: white;
+    border-radius: 100%;
 }
-  
+
+.github {
+    background: purple;
+    color: white;
+    border-radius: 100%;
+}
+
+.col-sm-6 {
+    background-color: white;
+    padding-bottom: 80px;
+}
+
 .col-sm {
     background-color: white;
     padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .navbar-brand {
@@ -50,3 +75,13 @@ footer {
         background-color: white;
         padding-top: 2%;
 }
+
+.container {
+    text-align: center;
+}
+
+a {
+    font-size: 2vw;
+}
+
+
